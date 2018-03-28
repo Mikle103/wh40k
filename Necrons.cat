@@ -1229,6 +1229,22 @@
         </categoryLink>
       </categoryLinks>
     </entryLink>
+    <entryLink id="2ece-adf6-a8e9-8ce6" name="Fractured Personalities (All)" hidden="false" targetId="5841-64f7-b88d-7840" type="selectionEntry">
+      <profiles/>
+      <rules/>
+      <infoLinks/>
+      <modifiers/>
+      <constraints/>
+      <categoryLinks>
+        <categoryLink id="0487-e346-35eb-0696" name="New CategoryLink" hidden="false" targetId="ff36a6f3-19bf-4f48-8956-adacfd28fe74" primary="true">
+          <profiles/>
+          <rules/>
+          <infoLinks/>
+          <modifiers/>
+          <constraints/>
+        </categoryLink>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="e151-00eb-70a6-86b4" name="Tesseract Vault" book="Codex: Necrons" hidden="false" collective="false" type="model">
